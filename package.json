@@ -1,0 +1,25 @@
+{
+  "start": "nodemon server.js",
+  "name": "13-just-tech-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TennCreekBridges/13-just-tech-news.git"
+  },
+  "author": "Bridgett Valet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TennCreekBridges/13-just-tech-news/issues"
+  },
+  "homepage": "https://github.com/TennCreekBridges/13-just-tech-news#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  }
+}
